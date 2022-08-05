@@ -12,4 +12,4 @@ Each user must use the client-side script to connect to the server.
 
 ## Usage
 
-To download the script, simply click [here](https://github.com/CodeMaster7000/Chat-Room).
+You can download the script using the `Code` dropdown on the main page of this repository.
